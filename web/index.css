@@ -1,0 +1,22 @@
+div {
+  /* background-color: rgb(51, 121, 182); */
+  text-align: center;
+  padding: 0%;
+  size-adjust: 100px;
+  margin: 5%;
+  color: rgb(44, 225, 44);
+  font-size: 20px;
+}
+button {
+  color: rgb(189, 17, 163);
+}
+body {
+  background-color: rgb(8, 8, 8);
+  padding: 0%;
+  margin: 0%;
+}
+
+.scaled-div {
+  transform: scale(2); /* Scales the element by 200% */
+  transform-origin: top left;
+}
