@@ -1,5 +1,5 @@
 div {
-  /* background-color: rgb(51, 121, 182); */
+  
   text-align: center;
   padding: 0%;
   size-adjust: 100px;
@@ -17,6 +17,6 @@ body {
 }
 
 .scaled-div {
-  transform: scale(2); /* Scales the element by 200% */
+  transform: scale(2);
   transform-origin: top left;
 }
